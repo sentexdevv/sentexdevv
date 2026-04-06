@@ -1,9 +1,8 @@
 <div align="center">
 
-
 # Sentex
 
-### UI/UX Designer · Figma / VScode · Discord.js · Vibecoding
+### FiveM Frontend Developer · UI/UX Designer · Figma / VS Code · Discord.js
 
 <a href="https://github.com/sentexdevv">
   <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white">
@@ -18,27 +17,26 @@
 
 ## About
 
-Hi, I’m Sentex 👋
-I’m a passionate UI/UX Designer focused on building clean, modern, and modern UI's.
-I enjoy working with Figma, to create fast and user-friendly experiences.
+Hi, I’m Sentex 👋  
+I’m a FiveM Frontend Developer and UI/UX Designer, focused on creating clean, modern, and immersive user interfaces for FiveM servers.
 
-I care about clean and, good UI/UX, and constantly improving my skills.
+I mainly work with Figma and bring designs to life using efficient and user-friendly frontend implementations.
+
+I value clean design, smooth user experience, and constantly work on improving my skills.
 
 ---
 
 ## Projekte
 
-- **PashaCity Roleplay**
-- **TexX Scripts**
+- **Soon**
 
 ---
 
 ## Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,vscode,discordjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,figma,vscode,discordjs&theme=dark" />
 </p>
-
 
 ---
 
