@@ -5,7 +5,7 @@
 
 ### UI/UX Designer · Figma / VScode · Discord.js · Vibecoding
 
-<a href="https://github.com/Faling34">
+<a href="https://github.com/sentexdevv">
   <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="#">
